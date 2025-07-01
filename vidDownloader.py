@@ -44,17 +44,3 @@ def main():
 if __name__ == "__main__":
     main()
 
-
-
-""" Instructions | Note to Self """
-# type to get into venv: python -m venv venv
-# then: .\venv\Scripts\activate 
-
-# the second "venv" is the name of the folder and so whatever that's name is, goes for the "\venv\" in the second command
-
-
-# pip install yt-dlp
-
-# type "deactivate" to turn off the venv
-
-# Check if in venv with: python -c "import sys; print(sys.prefix)"
