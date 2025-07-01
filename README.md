@@ -1,3 +1,4 @@
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 # YouTube Downloader Script (yt-dlp)
 
 A command-line tool that lets you download **1080p videos** or **MP3 audio** from YouTube using `yt-dlp`.
