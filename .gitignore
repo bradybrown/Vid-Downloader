@@ -1,0 +1,12 @@
+# Python virtual environment
+.venv/
+
+# Bytecode and logs
+__pycache__/
+*.pyc
+*.log
+
+# Downloaded media files
+*.mp3
+*.mp4
+*.webm
