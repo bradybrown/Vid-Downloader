@@ -1,3 +1,5 @@
+
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 # 🎵 YouTube Downloader Script (yt-dlp)
 
 A command-line tool that lets you download **1080p videos** or **MP3 audio** from YouTube using `yt-dlp`.
@@ -32,15 +34,14 @@ A command-line tool that lets you download **1080p videos** or **MP3 audio** fro
      C:\ffmpeg\bin
      ```
 
-2. **To auto-activate venv in VS Code**, run this once:
+2. **To auto-activate venv in VS Code**, run this ONCE:
 
    ```bash
    python -m venv .venv
-
    pip install yt-dlp
    ```
 ---
-## Additional Notes
+## 🧠 Additional Notes
 
 1. Activate your virtual environment (each time you work on the project):
 
@@ -54,7 +55,7 @@ A command-line tool that lets you download **1080p videos** or **MP3 audio** fro
     python vidDownloader.py
     ```
 
-3. Deactivate Virtual Enviroment:
+3. Deactivate Virtual Environment:
 
     ```
     deactivate
